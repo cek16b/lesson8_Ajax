@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 8, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Clayton Kuhlmeier)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project is about making a requests to an online database through our websites)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://cek16b.github.io/lesson8_Ajax/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned What an API key is and how they work.
+2. We Learned how to make a request to a web database.
+3. We learned the overall concept of AJAX
